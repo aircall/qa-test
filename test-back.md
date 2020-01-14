@@ -1,10 +1,7 @@
 
 # QA technical test - Back
 
-
-## **Aircall context…**
-
-### You work at Aircall….
+### Context: You work at Aircall….
 
 As an agent, your account gives you access to all the contacts of the company. 
 Here, we’re looking for a contact of which the number is: 33186767076
