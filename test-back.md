@@ -33,10 +33,10 @@ The API url given gives you information about contacts having a specific number:
 
 ### Test details…
 #### API url: 
-* https://api.aircall.io/v1/contacts/search?order=asc&order_by=created_at&phone_number=33186767076
+* https://api.aircall.io/v1/contacts/search?order=asc&order_by=created_at&phone_number=[number]
 
 #### Auth details:
-* Id: e31f876817e7a8e8ccba851eace8b803
-* Token: bb63a20a3e845565f1c458b11ab47303
+* Id: [ID]
+* Token: [Token]
 
 
