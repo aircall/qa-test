@@ -31,10 +31,10 @@ Add any relevant contribution you feel is important. As a QA Team, we own testin
 * Test plan -> Here
 
 * Phone1 URL: https://phone.aircal.io/ <br/>
-Login: [….]<br/>
-Passord: [….]
+Login: [qa+tester@aircall.io]<br/>
+Passord: [1425de63]
 
 * Phone2 URL: https://phone.aircal.io/ <br/>
-Login: [….]<br/>
-Passord: [….]
+Login: [qa+test2@aircall.io]<br/>
+Passord: [56d6dd83]
 
