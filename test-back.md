@@ -4,9 +4,9 @@
 ### Context: You work at Aircall….
 
 As an agent, your account gives you access to all the contacts of the company. 
-Here, we’re looking for a contact of which the number is: +3238083708
+Here, we’re looking for a contact of which the number is: +33652556756
 
-The API url given gives you information about contacts having a specific number: +3238083708
+The API url given gives you information about contacts having a specific number: +33652556756
 
 ### Goals…
 1. Design and draft a test plan (JSON fields you’ll be testing)
