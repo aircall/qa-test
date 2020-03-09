@@ -30,11 +30,11 @@ Add any relevant contribution you feel is important. As a QA Team, we own testin
 ### Test details…
 * Test plan -> https://docs.google.com/spreadsheets/d/1cxOlQ8mVeqdff4tvgJPLwyUxf26Z_jwH5YaFs15gu68/edit#gid=0
 
-* Phone1 URL: https://phone.aircal.io/ <br/>
+* Phone1 URL: https://phone.aircall.io/ <br/>
 Login: [...]<br/>
 Passord: [...]
 
-* Phone2 URL: https://phone.aircal.io/ <br/>
+* Phone2 URL: https://phone.aircall.io/ <br/>
 Login: [...]<br/>
 Passord: [...]
 
