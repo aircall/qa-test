@@ -28,7 +28,7 @@ Add any relevant contribution you feel is important. As a QA Team, we own testin
 * A readme file explaining how to run it (a video works as well)
 
 ### Test details…
-* Test plan -> Here
+* Test plan -> https://docs.google.com/spreadsheets/d/1cxOlQ8mVeqdff4tvgJPLwyUxf26Z_jwH5YaFs15gu68/edit#gid=0
 
 * Phone1 URL: https://phone.aircal.io/ <br/>
 Login: [...]<br/>
